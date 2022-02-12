@@ -1,3 +1,6 @@
 # Alien_Invasion
 An arcade style video game.
-![AI_Read-me](https://user-images.githubusercontent.com/99472513/153730066-5fbaff25-18a7-43fe-bb0a-4a73bb4cacfd.png
+![Game Screenshot](https://user-images.githubusercontent.com/99472513/153730066-5fbaff25-18a7-43fe-bb0a-4a73bb4cacfd.png
+## Requirements
+Python3.7+
+pygame module
