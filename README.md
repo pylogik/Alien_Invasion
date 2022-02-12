@@ -4,4 +4,4 @@ An arcade style video game.
 
 ### Requirements
 Python3.7+,
-pygame 1.9+.
+pygame 1.9.5+.
