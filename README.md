@@ -4,10 +4,10 @@
 
 ## How to play
 Q to quit
-Left, A to navigate your ship left or right.
-Press the Right Arrow or 'D' to navigate the ship right.
-Press the Left Arrow or 'A' to navigate the ship left.
-Press the spacebar to fire bullets.
+- Left, A to navigate your ship left or right.
+- Press the Right Arrow or 'D' to navigate the ship right.
+- Press the Left Arrow or 'A' to navigate the ship left.
+- Press the spacebar to fire bullets.
 
 ## Rules
 You have three lives, and you loose a life if any enemy ship collides with you or the enemy makes it to the bottom of the screen.
