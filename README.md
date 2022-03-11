@@ -3,7 +3,7 @@
 ![Game Screenshot](https://user-images.githubusercontent.com/99472513/153730066-5fbaff25-18a7-43fe-bb0a-4a73bb4cacfd.png)
 
 ## How to play
-Q to quit
+- Q to quit
 - Left, A to navigate your ship left or right.
 - Press the Right Arrow or 'D' to navigate the ship right.
 - Press the Left Arrow or 'A' to navigate the ship left.
